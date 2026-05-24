@@ -3,3 +3,5 @@ esse é o inicio versao inicio.
 estou iniciando o aprendizado em git. primeira versao.
 
 e como todos falam, so se aprende praticando. segunda versao.
+
+complemento pelo github
