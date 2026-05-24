@@ -1,1 +1,3 @@
-esse é o inicio versao inicio
+esse é o inicio versao inicio.
+
+estou iniciando o aprendizado em git. primeira versao.
